@@ -2,7 +2,7 @@ Freeway - jogo de Atari
 
 Projeto desenvolvido no curso de programação da Alura para simular esse clássico lançado pela Atari
 
-![Freeway](FreewayOriginal.jpg)
+![Freeway](img/FreewayOriginal.jpg)
 
 # Freeway
 
@@ -22,7 +22,7 @@ Se liga nessa lista de tudo que usamos nesse projeto:
 
 E muito mais!
 
-![p5collide2d](p5collide2d.png)
+![p5collide2d](img/p5collide2d.png)
 
 ## 🛠️ Abrir e rodar o projeto
 
