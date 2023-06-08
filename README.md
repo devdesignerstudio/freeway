@@ -8,7 +8,7 @@ Projeto desenvolvido no curso de programação da Alura para simular esse cláss
 
 O Freeway é um game que simula uma vaquinha tentando atravessar a pista até chegar ao outro lado sem ser atropelada, parecido com o jogo original lançado pela Atari de <a href="https://www.youtube.com/watch?v=8cd5VPARfNM">Freeway</a> na década de 80 que simulava uma galinha fazendo a travessia.
 
-<img src="screencapture.png" alt="Imagem do Freeway" width="50%">
+<img src="img/screencapture.png" alt="Imagem do Freeway" width="50%">
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
