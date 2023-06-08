@@ -1,8 +1,8 @@
 //carrega propriedades e métodos do carro
 
-let xCarros = [600, 600, 600] //[xCarro1, xCarro2, xCarro3]
-let yCarros = [40, 96, 150] //[yCarro1, yCarro2, yCarro3]
-let velocidadeCarros = [2, 2.5, 3.2] //[velocidadeCarro1, velocidadeCarro2, velocidadeCarro3]
+let xCarros = [600, 600, 600, 600, 600, 600] //[xCarro1, xCarro2, xCarro3, xCarro4, xCarro5, xCarro6]
+let yCarros = [40, 96, 150, 210, 270, 318] //[yCarro1, yCarro2, yCarro3, yCarro4, yCarro5, yCarro6]
+let velocidadeCarros = [2, 2.5, 3.2, 5, 3.3, 2.3] //[velocidadeCarro1, velocidadeCarro2, velocidadeCarro3, velocidadeCarro4, velocidadeCarro5, velocidadeCarro6]
 
 //carro1
 // let xCarro1 = 600;
