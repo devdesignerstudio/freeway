@@ -37,6 +37,12 @@ Ou experiemnte online <a href="https://editor.p5js.org/devdesignerstudio/full/XH
 Utilize as teclas ⬆️ para mover para cima e ⬇️ para mover para baixo.
 Bom jogo e divirta-se ! =)
 
+Cada vez que é atropelado o personagem perde 1 (um) ponto.
+
+Sempre que conseguir atravessar toda a pista ganha 1 (um) ponto.
+
+Ao ganhar ou perder o personagem recomeça da posição inicial.
+
 ## 📚 Mais informações do curso
 
 O Freeway é um jogo para relembrar o sucesso da Atari Games utilizada nesse curso da Alura.
