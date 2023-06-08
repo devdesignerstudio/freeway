@@ -30,7 +30,7 @@ Para abrir e rodar o projeto, instale a extensão Live Server no VS Code e clica
 
 Depois, o navegador abrirá sozinho no endereço da aplicação rodando o jogo em <a href="http://localhost:5500/">http://localhost:5500/</a>.
 
-Ou experiemnte online <a href="https://editor.p5js.org/devdesignerstudio/full/XHlP_6WZ0">Aqui</a>
+Ou experimente online <a href="https://editor.p5js.org/devdesignerstudio/full/XHlP_6WZ0"><strong>Aqui</strong></a>
 
 ## 🏓 Como jogar ?
 
